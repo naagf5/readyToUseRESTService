@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Head First Java",
+      "author": "OREILLY"
+    },
+    {
+      "id": 2,
+      "title": "Java Complete Reference",
+      "author": "Herbert Schildt"
+    }
+  ],
+  "mobiles": [
+    {
+      "id": 1,
+      "manufacturer": "Apple",
+      "model": "iphone 6",
+      "price": 24999
+    },
+    {
+      "id": 2,
+      "manufacturer": "Samsung",
+      "model": "S7",
+      "price": 37999
+    },
+    {
+      "id": 3,
+      "manufacturer": "Apple",
+      "model": "iphone 7",
+      "price": 45999
+    }
+  ]
+}

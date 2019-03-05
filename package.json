@@ -1,0 +1,15 @@
+{
+  "name": "naagrest",
+  "version": "1.0.0",
+  "description": "Provides a simple REST service endpoint to test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.14.2"
+  }
+}

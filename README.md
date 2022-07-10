@@ -1,5 +1,6 @@
 # readyToUseRESTService
 This will expose two REST Services . Clone and Run . 
+Free Rest Service for testing purpose. 
 
 Steps to Use:
 1. clone the repo. OR download.
